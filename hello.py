@@ -1,5 +1,5 @@
 print("Hello, Python!!!")
-print("Welcome from Git")
+print("Second line removed by feature1")
 print("Third line")
 print("Forth line")
 print("Fifth line")
